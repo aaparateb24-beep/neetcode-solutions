@@ -1,0 +1,21 @@
+# Sliding Window – Complete Guide
+
+## Types
+1. Fixed Window
+2. Variable Window
+
+## Key Idea
+Expand → Shrink → Update
+
+## Patterns
+- Longest substring without repeating
+- At most k distinct
+- Exactly k = AtMost(k) - AtMost(k-1)
+
+## Common Mistakes
+- Using if instead of while
+- Forgetting to remove from hashmap
+
+# Tags: Sliding Window, Two Pointers, Binary Search
+# Pattern: Shrinking Window
+# Difficulty: Medium
